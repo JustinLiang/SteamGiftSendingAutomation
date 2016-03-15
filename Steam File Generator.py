@@ -90,5 +90,3 @@ if rv == 'OK':
     process_mailbox(M) # ... do something with emails, see below ...
     M.close() # close mailbox Steam
 M.logout()
-
-
